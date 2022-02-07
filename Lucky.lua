@@ -9,7 +9,7 @@ local library = {
     tabs = {},
     draggable = true,
     flags = {},
-    title = "Nexus V2",
+    title = "Lucky.Tap | PRIVATE BETA",
     open = false,
     mousestate = inputService.MouseIconEnabled,
     popup = nil,
@@ -19,7 +19,7 @@ local library = {
     notifications = {},
     tabSize = 0,
     theme = {},
-    foldername = "nexus",
+    foldername = "Lucky.Tap PF",
     fileext = ".nx"
 }
 getgenv().library = library
